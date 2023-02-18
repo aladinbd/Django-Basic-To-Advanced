@@ -82,5 +82,5 @@ You can check if Django is installed by asking for its version number like this:
 
 If Django is installed, you will get a result with the version number:
 ```bash
-  4.1.2
+  4.1.7
 ```

@@ -48,12 +48,12 @@ Once the environment is activated, you will see this result in the command promp
 Windows: 
 
 ```bash
-  (myworld) C:\Users\Your Name>
+  (aladin) C:\Users\Your Name>
 ```
 
 Unix/MacOS:
 ```bash
-  (myworld) ... $
+  (aladin) ... $
 ```
 
 ## Install Django
